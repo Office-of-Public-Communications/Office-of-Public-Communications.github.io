@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
+title:  "We liiiiive baby!"
 date:   2019-07-23 16:36:15 -0400
 categories: jekyll update
 ---
